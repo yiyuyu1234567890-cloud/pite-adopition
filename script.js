@@ -1,7 +1,7 @@
 const pets = [
   {
     id: 1,
-    name: "糖八",
+    name: "吴狗",
     type: "cat",
     city: "北京",
     age: "2岁",
@@ -15,7 +15,7 @@ const pets = [
   },
   {
     id: 2,
-    name: "电航",
+    name: "房旺",
     type: "dog",
     city: "上海",
     age: "1岁",
@@ -29,7 +29,7 @@ const pets = [
   },
   {
     id: 3,
-    name: "骚牛",
+    name: "扎牛",
     type: "cat",
     city: "杭州",
     age: "7岁",
@@ -57,7 +57,7 @@ const pets = [
   },
   {
     id: 5,
-    name: "橘宝",
+    name: "小黄",
     type: "cat",
     city: "上海",
     age: "8个月",
